@@ -1,0 +1,9 @@
+[package]
+name = "serenity-interactables"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serenity = "0.12.1"
+case = "1.0.0"
+casey = "0.4.0"
